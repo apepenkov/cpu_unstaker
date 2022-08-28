@@ -1,0 +1,7 @@
+[config]
+pkey = "KEY_HERE"
+account = ""
+wax_node = ""
+chunk_size = 200
+net_unstake_to = 0.0
+cpu_unstake_to = 0.0
