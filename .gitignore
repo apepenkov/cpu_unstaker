@@ -1,4 +1,5 @@
 accounts.txt
+config.toml
 
 .idea/**/workspace.xml
 .idea/**/tasks.xml
